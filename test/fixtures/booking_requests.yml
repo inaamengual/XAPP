@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  venue_name: MyString
+  location: MyString
+  start_time: 2018-06-13
+  end_time: 2018-06-13
+  environment: MyString
+  booking_comment: MyString
+
+two:
+  venue_name: MyString
+  location: MyString
+  start_time: 2018-06-13
+  end_time: 2018-06-13
+  environment: MyString
+  booking_comment: MyString
